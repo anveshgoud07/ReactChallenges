@@ -5,7 +5,7 @@ import { NavLink } from "react-router-dom";
 export default function Sidebar() {
   return (
    <div className="sidebar">
-      <h2><b>Work Force Analytics</b></h2>
+      <h2>Workforce Analytics</h2>
 
       <NavLink to="/">Dashboard</NavLink>
 
